@@ -1,0 +1,3 @@
+C:/Users/laure/Desktop/Projects/1st year/C++ Projects/AGL Calatori/cmake-build-debug/CMakeFiles/PS_AGL.dir
+C:/Users/laure/Desktop/Projects/1st year/C++ Projects/AGL Calatori/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laure/Desktop/Projects/1st year/C++ Projects/AGL Calatori/cmake-build-debug/CMakeFiles/rebuild_cache.dir
